@@ -33,10 +33,6 @@ Fashion & E-commerce project: dataset comparison, selection, and exploratory dat
    - Open `Project_Checkpoint1_EDA.ipynb` in Jupyter or VS Code.
    - Run cells in order; the data-loading cell uses a 10% sample by default to avoid OOM.
 
-## Course alignment
-
-- **Weeks 2, 3–4, 9, 11, 12:** Itemsets, bipartite graphs, anomaly detection, LSH, stream mining.
-
 ## License
 
 Course project; dataset use follows each source’s terms (Synerise challenge, Kaggle, research licenses).
