@@ -1,0 +1,22 @@
+# Cursor / IDE
+AGENTS.md
+
+# Datasets: ignore data files only; READMEs in each folder are committed
+challenge_dataset/**/*.parquet
+challenge_dataset/**/*.npy
+h_m_dataset/**/*.csv
+amazon_dataset/**/*.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
